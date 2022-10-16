@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Fish Classifier"
-permalink: /fishclassifier
+permalink: /fishclassifier/
 ---
 
 <input id="photo" type="file">
