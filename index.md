@@ -1,3 +1,6 @@
+---
+title: Felix Wedel's Homepage
+---
 ## Welcome To My GitHub Page
 
 ### My Projects on GitHub
