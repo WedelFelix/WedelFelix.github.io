@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Fish Classifier"
+title: Fish Classifier
 permalink: /fishclassifier/
 ---
 
