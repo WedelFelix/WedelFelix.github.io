@@ -4,6 +4,6 @@
 
 | Projects | Links |
 | ---------------- | ----- |
-| Hello World      | [hello-world](https://github.com/WedelFelix/hello-world)|
+| Fish Classifier      | [Fish Classifier V1](https://wedelfelix.github.io/FishClassifier.html)|
 
 Check back in the future for more projects!
