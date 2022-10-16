@@ -3,6 +3,8 @@ layout: default
 title: Fish Classifier
 permalink: /fishclassifier/
 ---
+## Fish Classifier V1
+### Upload a picture (preferably of a fish) and see whether the model thinks it's a walleye or northern pike!
 
 <input id="photo" type="file">
 <div id="results"></div>
