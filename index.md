@@ -1,12 +1,7 @@
 ---
-title: Felix Wedel's Homepage
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+
 ---
-## Welcome To My GitHub Page
-
-### My Projects on GitHub
-
-| Projects | Links |
-| ---------------- | ----- |
-| Fish Classifier      | [Fish Classifier V1](https://wedelfelix.github.io/fishclassifier)|
-
-Check back in the future for more projects!

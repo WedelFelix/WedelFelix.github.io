@@ -1,0 +1,63 @@
+---
+---
+@import "minima";
+
+input{
+    transition:all 0.5s ease-in-out;
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-top: 2%;
+    text-align: center;
+    background-color: transparent;
+    font-size: 16px;
+}
+input:hover{
+    background-color: #ccc;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    transition:all 0.5s ease-in-out;
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 16px;
+}
+
+.custom-file-upload:hover{
+    background-color: #ccc;
+}
+// main{
+//     background-color: #dcdcdc;
+    
+// }
+#results {
+    min-height: 300px;
+    height: 100%;
+    width: 100%;
+    background-color:#FAF9F6;
+    border: 2px dashed black;
+    border-radius: 2%;
+}
+#givenImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#resultLabel {
+    text-align: center;
+}
+
+#photo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
