@@ -12,7 +12,7 @@ ___
 
 1. A resume formatted in [markdown](https://www.markdownguide.org/getting-started/)
 2. A markdown editor. I recommend [Visual Studio Code](https://code.visualstudio.com/) for its versatility
-3. Jekyll. Follow Jekyll's [official installation guide](https://jekyllrb.com/docs/installation/) to install Jekyll and its dependancies
+3. Jekyll. Follow Jekyll's [official installation guide](https://jekyllrb.com/docs/installation/) to install Jekyll and its dependencies
 4. A [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 5. [GitHub Desktop](https://desktop.github.com/)
 
@@ -37,7 +37,7 @@ ___
 
 1. On GitHub Desktop click on **Open with visual studio code**
 2. Click on **Terminal** and select **New Terminal** from the top task bar of VS Code
-3. In the terminal, make sure the file path displayed is the same file path you chose when cloning your GitHub Pages repository and run the following command to have jekyll overwrite the existing files in the directory and create a new jekyll site with all of the necessary files and folders
+3. In the terminal, make sure the file path displayed is the same file path you chose when cloning your GitHub Pages repository and run the following command to have jekyll overwrite the existing files in the directory and create a new Jekyll site with all of the necessary files and folders
 
 ```sh
 jekyll new . --force
@@ -66,7 +66,7 @@ layout: "home"
 
 ![Step 4.1](/assets/images/Step4.1.gif)
 
-#### Option 2: Make your resume a seperate page on your site
+#### Option 2: Make your resume a separate page on your site
 
 1. Copy your Resume.md file into the root directory of your site
 2. Add the following frontmatter to the very top of your resume markdown file
@@ -98,7 +98,7 @@ bundle exec jekyll serve
 ### Step 6: Customize your configuration file
 
 1. Open the _config.yml file in your sites root folder
-2. Update the relevent fields such as follows
+2. Update the relevant fields such as follows
 
 ```yml
 title: Whatever title you wish to give your site
@@ -113,13 +113,15 @@ github_username:  yourgithubusername
 
 To learn how to further customize your site or change your Jekyll theme, see the [More Resources Section](#more-resources)
 
-### Step 7: Commit and Push your changes to github
+### Step 7: Commit and Push your changes to GitHub
 
-1. Make sure you have saved all of the changes you have made to each file
+1. Make sure you have saved all the changes you have made to each file
 2. Open GitHub desktop and select your sites repository as your current repository
-3. Fill out the summary field in the bottom left of the window and click **commit** to commit all of your changes
-4. Now click the blue **Push Origin** button to push all of your changes to GitHub
-5. Wait for github to build your site, this could take up to 10 minutes, and view your new site in your browser at yourgithubusername.github.io
+3. Fill out the summary field in the bottom left of the window and click **commit** to commit all your changes
+4. Now click the blue **Push Origin** button to push all your changes to GitHub
+5. Wait for GitHub to build your site, this could take up to 10 minutes, and view your new site in your browser at yourgithubusername.github.io!
+
+![Step 7](/assets/images/Step7.gif)
 
 ### More Resources
 
@@ -151,12 +153,12 @@ ___
 
 **Question:** Why is Markdown better than a word processor?  
 
-**Answer:** Markdown is better than using a word processor since it is:
+**Answer:** Markdown is better than using a word processor for several reasons, including that Markdown is:
 
 - Easy and quick to learn and write
 - Easier to publish the web quickly as a static site
 - Easier to distribute since everyone can access the same static site instead of needing a copy of the document
-- Widely compatable
+- Widely compatible with static site generators
 
 ___
 **Question:** Why is my resume not showing up?
@@ -164,5 +166,5 @@ ___
 **Answer:** There are a number of reasons that your resume might not be showing up. Make sure that:
 
 1. Your resume is located in the root directory of your GitHub pages repository
-2. An index.md file is present in your repositories root directory
+2. An index.md file is present in your repository's root directory
 3. Make sure the [visibility of your site is set to public](https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site)  

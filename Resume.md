@@ -43,7 +43,6 @@ University of Manitoba --- Expected April 2023
 - PyTorch
 - Fast.ai
 - Bootstrap
-- JQuery
 - React
 - SQLAlchemy
 
