@@ -2,13 +2,9 @@
 
 ## Purpose
 
-___
-
 The goal of this README is to teach the key principles of [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by demonstrating how to host a markdown resume on GitHub Pages.
 
 ## Prerequisites
-
-___
 
 1. A resume formatted in [markdown](https://www.markdownguide.org/getting-started/)
 2. A markdown editor. I recommend [Visual Studio Code](https://code.visualstudio.com/) for its versatility
@@ -17,8 +13,6 @@ ___
 5. [GitHub Desktop](https://desktop.github.com/)
 
 ## Instructions
-
-___
 
 ### Step 1: Create your GitHub Pages repository
 
@@ -135,8 +129,6 @@ To learn how to further customize your site or change your Jekyll theme, see the
 
 ## Authors and Acknowledgements
 
-___
-
 ### Revisions and Editing
 
 - [Al Fahiyan Siyam]()
@@ -148,8 +140,6 @@ ___
 - [Jekyll's minima theme](https://github.com/jekyll/minima)
 
 ## FAQs
-
-___
 
 **Question:** Why is Markdown better than a word processor?  
 
