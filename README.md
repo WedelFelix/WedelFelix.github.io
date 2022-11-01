@@ -117,8 +117,9 @@ To learn how to further customize your site or change your Jekyll theme, see the
 
 1. Make sure you have saved all of the changes you have made to each file
 2. Open GitHub desktop and select your sites repository as your current repository
-3. Fill out the summary field in the bottom left of the window and click commit to commit all of your changes
-
+3. Fill out the summary field in the bottom left of the window and click **commit** to commit all of your changes
+4. Now click the blue **Push Origin** button to push all of your changes to GitHub
+5. Wait for github to build your site, this could take up to 10 minutes, and view your new site in your browser at yourgithubusername.github.io
 
 ### More Resources
 
