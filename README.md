@@ -147,9 +147,9 @@ To learn how to further customize your site or change your Jekyll theme, see the
 
 ### Revisions and Editing
 
-- [Al Fahiyan Siyam](www.github.com/alfahiyansiyam)
-- [Nurida Karimbaeva](www.github.com/nuridak)
-- [Gurman Toor](www.github.com/GurmanToor)
+- [Al Fahiyan Siyam](https://github.com/alfahiyansiyam)
+- [Nurida Karimbaeva](https://github.com/nuridak)
+- [Gurman Toor](https://github.com/GurmanToor)
 
 ### Page Theme and Templates
 
