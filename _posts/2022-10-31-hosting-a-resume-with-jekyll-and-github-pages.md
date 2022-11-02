@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Hosting a Resume with Jekyll and GitHub Pages"
-date:   2022-10-31 18:10:16 -0500
-categories: guide
+title: "Hosting a Resume with Jekyll and GitHub Pages"
+date: 2022-10-31 18:10:16 -0500
+type: post
 ---
 
 ## Purpose
