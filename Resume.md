@@ -6,7 +6,7 @@ title:  "Resume"
 ---------------------
 1-204-381-8527  
 wedelfelix@hotmail.ca  
-[github.com/WedelFelix](github.com/WedelFelix)  
+[github.com/WedelFelix](https://github.com/WedelFelix)  
 
 ---------------------
 
