@@ -31,7 +31,8 @@ We will be following Andrew Etter's key principle of *using distributed version 
 
 **Note: Once GitHub Desktop opens, a window will pop up with the GitHub URL, local path and a clone button. Feel free to change the local path to store the local copy of your site files somewhere else on your PC, however I recommend using the default path**
 
-3. Click on the blue **Clone** button to create a local copy of your files ![step 2](/assets/images/step2.gif)
+3. Click on the blue **Clone** button to create a local copy of your files ![step 2](/assets/images/Step2.gif)
+
 **Note: The Process is shown with an example Hello World repository**
 
 ### Step 3: creating a new Jekyll project
